@@ -1,4 +1,4 @@
-# Governmental project sourced by Ministry of Land,Infrastructure and Transport
+# 도심 공동 택배 터미널 배차 알고리즘
 
 ### Objective
 1. Keep clusters exclusive
